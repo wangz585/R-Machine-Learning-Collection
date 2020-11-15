@@ -1,7 +1,7 @@
-# R-Data-Analysis-Collection
+# R-Machine-Learning
 ### Project Name
 
-R Data Analysis Collection
+R Machine Learning Collection(Data Analysis)
 
 ### Description
 
